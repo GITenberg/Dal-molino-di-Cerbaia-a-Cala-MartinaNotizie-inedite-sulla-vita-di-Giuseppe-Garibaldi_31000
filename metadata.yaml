@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '34955'
     url: http://www.gutenberg.org/2009/agents/34955
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31000#Dal-molino-di-Cerbaia-a-Cala-MartinaNotizie-inedite-sulla-vita-di-Giuseppe-Garibaldi
 gutenberg_bookshelf: IT Storia
 gutenberg_issued: '2010-01-17'
 gutenberg_type: Text
